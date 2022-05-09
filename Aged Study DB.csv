@@ -1,6 +1,6 @@
-Mouse ID ,Sex,Arrival Date or DOB,Age at Arrival (weeks),Procedure Date ,Age at Procedure (weeks),Procedure,Study,Surgeon,Housing,Euthanasia,Time Alive (days),Surgery Start Time (HH:MM:SS),Surgery End Time (HH:MM:SS),Surgery Duration (HH:MM:SS),Body Temp (°C)
-M=18/021,Male,29/08/2018,,02/07/2019,44,ip injection ,Aged,Andrea,group,04/07/2019,2,NA,NA,NA,
-M=18/022,Male ,29/08/2018,,02/07/2019,44,ip injection ,Aged,Andrea,group,04/07/2019,2,NA,NA,NA,
+Mouse ID,Sex,Arrival Date or DOB,Age at Arrival (weeks),Procedure Date,Age at Procedure (weeks),Procedure,Study,Surgeon,Housing,Euthanasia,Time Alive (days),Surgery Start Time (HH:MM:SS),Surgery End Time (HH:MM:SS),Surgery Duration (HH:MM:SS),Body Temp (Â°C)
+M=18/021,Male,29/08/2018,,02/07/2019,44,ip injection,Aged,Andrea,group,04/07/2019,2,NA,NA,NA,
+M=18/022,Male ,29/08/2018,,02/07/2019,44,ip injection,Aged,Andrea,group,04/07/2019,2,NA,NA,NA,
 M=22/03 #01,Male,22/03/2019,58,27/06/2019,72,pMCAO,Aged,Andrea,single,04/07/2019,7,09:50:00,10:49:00,59:00,
 M=22/03 #02,Male,22/03/2019,58,01/07/2019,72,pMCAO,Aged,Andrea,single,08/07/2019,7,15:12:00,16:00:00,48:00,
 M=22/03 #03,Male,22/03/2019,58,28/06/2019,72,pMCAO,Aged,Andrea,group,05/07/2019,7,09:25:00,10:20:00,55:00,
